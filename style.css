@@ -1,6 +1,10 @@
 body {
     background-color: black;
     color: white;
-    width: 80%;
-    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
+
